@@ -6,3 +6,4 @@ length = len(grades)
 average = total / length
 print(average)
 
+

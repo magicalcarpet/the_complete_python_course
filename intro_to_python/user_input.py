@@ -5,3 +5,5 @@
 
 age = int(input("Enter your age: "))
 print(f"You have lived for {age * 12} months.")
+
+
