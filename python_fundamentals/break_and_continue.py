@@ -16,3 +16,4 @@ for status in cars:
         continue
     print(f'This car is {status}.')
     print('Shipping new car to customer!')
+

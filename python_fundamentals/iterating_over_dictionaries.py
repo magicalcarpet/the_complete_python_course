@@ -8,3 +8,5 @@ for age in friends_ages.values():
 
 for friend, age in friends_ages.items():
     print(friend, age)
+
+

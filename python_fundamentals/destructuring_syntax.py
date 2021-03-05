@@ -9,3 +9,5 @@ for friend in friends:
 for name, age in friends:
     print(f"{name} is {age} years old.")
 
+
+
