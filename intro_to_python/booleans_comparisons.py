@@ -8,4 +8,3 @@ user_number = int(input("Enter a number:"))
 
 print(my_number == user_number)
 
-

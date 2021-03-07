@@ -11,4 +11,3 @@ print(art_friends)
 art_friends.remove("Paula")
 print(art_friends)
 
-

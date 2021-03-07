@@ -16,4 +16,3 @@ print(art_and_science)
 all_friends = art_friends.union(science_friends)
 print(all_friends)
 
-

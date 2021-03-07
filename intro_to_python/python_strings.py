@@ -20,4 +20,3 @@ print(greeting)
 
 age = 34
 print("You are", 34)
-

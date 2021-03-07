@@ -12,4 +12,3 @@ more_about_friends = [["Richard", 31], ["Gemma", 33], ["Sam", 39], ["Alex", 28]]
 
 more_about_friends.remove(["Gemma", 33])
 
-
